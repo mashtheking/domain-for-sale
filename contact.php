@@ -3,8 +3,8 @@
 	if (isset($_POST['email'])) {
 
 		// EDIT THE 2 LINES BELOW AS REQUIRED
-		$email_to = "hey@sarozpoddar.com.np";
-		$email_subject = "My offer for [Your Domain]";
+		$email_to = "fred@mziki.africa";
+		$email_subject = "My offer for Preach.Africa";
 
 
 		$name = $_POST['name']; // required
@@ -38,7 +38,7 @@
 <html lang="en">
 		<head>
 				<meta charset="utf-8">
-				<title>Sales Inquery || [Your Domain]</title>
+				<title>Sales Inquery || Preach.Africa</title>
 				<meta name="viewport" content="width=device-width, initial-scale=1.0">
 				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
 				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
@@ -75,7 +75,7 @@
 														<span class="text-muted">Kathmandu, Nepal</span>
 														<p><span>Web Strategist, Front-end Developer & UX/ UI Designer</span></p>
 														<br/>
-														<a target="_blank" rel="nofollow" href="https://sarozpoddar.com.np">sarozpoddar.com.np</a>
+														<a target="_blank" rel="nofollow" href="https://preach.africa">Preach.Africa</a>
 													</div>
 											</div>
 									</section>
